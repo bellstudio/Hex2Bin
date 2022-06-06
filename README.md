@@ -1,6 +1,6 @@
 # h2bNh
 
-This is Covnering the Interl Hex format file to `Binary` or `C header`  
+This tool converts the Intel Hex format file to `Binary` or `C header`  
 Support `Extended Segment Address Record` and `Extended Linear Address Record`  
 
 ## Convert Intel Hex format file to `Binary` file(s) and `c` header file
